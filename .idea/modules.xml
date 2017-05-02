@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/LessonTaskJavaPRO.iml" filepath="$PROJECT_DIR$/LessonTaskJavaPRO.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ReflectionAPI.iml" filepath="$PROJECT_DIR$/ReflectionAPI.iml" />
     </modules>
   </component>
 </project>
